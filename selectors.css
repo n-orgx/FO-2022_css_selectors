@@ -46,21 +46,3 @@
 
 
 /* 16. Alla checkboxrutor som är 'checked' ska får en vänstermarginal på 50px (margin-left: 50px) */
-
-
-/* BONUSUPPGIFTER 17-21 */
-
-
-/* 17. Ge alla p som är direkta barn till .container en font-weight på 700 */
-
-
-/* 18. Endast första listelementet i ul-listan ska få färg och font-size: 20px */
-
-
-/* 19. Ge alla p som kommer direkt efter h2-elementet i den tredje div-en (class="third") en turkos bakgrundsfärg Tips: Adjacent sibling selector*/
-
-
-/* 20. Ge alla p som kommer efter h2-elementet i den trdje div-en (class="third") en vit färg #fff Tips: General sibling selector*/
-
-
-/* 21. Ge den andra paragrafen i .contatinern en röd färg  font-size till 32px; (En utmaning...)*/
