@@ -2,7 +2,7 @@
 
 Denna övning är till för att öva grunderna inom CSS Selektorer.
 
-1. Gör en clone eller ladda hem .html och .css-filen. 
+1. Tryck på Code och sedan ladda ner som zip för att hämta ner filerna.
 
 2. Arbeta i selectors.css och använd dig av lämplig selektor under varje rad och applicera den style som anges
 
